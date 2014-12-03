@@ -1,0 +1,300 @@
+* Brief from Public Finance journal
+
+  I've been looking to get a piece into the next issue of the magazine
+  on the changing remit of the Bank of England and didn't know whether
+  this was something Reform had followed.
+
+  We want to run a feature on how the BoE's role might change under Mark
+  Carney. The feature would suggest the approach that Carney might take;
+  perhaps lowering interest rates to 0%, or fixing rates for a longer
+  period (like the Fed has done) or having a flexible inflation
+  target. It would offer views as to what would be the best approach.
+
+  The piece might also look at the use of QE and whether this is likely
+  to be extended by Carney.
+
+  Is this something you would be interested in? We'd want to run about
+  1,500 words in our May issue, the deadline for which would be Monday
+  April 8.
+
+
+
+* Key points
+
+** the situation
+
+*** administrative
+- Carney arriving to take over as BoE Governor and a new remit issued
+- New remit encourages forward guidance but maintains everything else
+- Commits Carney to 2% inflation target with same degree of
+  flexibility as previously
+- Much is expected of Carney and he is being paid a superstar's
+  salary but King is already in favour of more stimulus and has been
+  outvoted each time
+
+*** economic
+- Inflation has been above target for a long time and tolerated by
+  BoE because they're targeting the forecast and looking through SR
+  fluctuations.
+- Their growth forecasts have also been wrong
+- NGDP growth is entirely absent, indicating a demand problem
+- employment growth, flat productivity and high inflation suggest
+  supply-side problems, too
+
+** what can Carney do?
+
+- Carney has no more flexibility in his mandate than King
+- Central banks are institutions that implement the Chancellor's
+  mandate, not active, policy-making monetary institutions.
+- The same tools are available:
+  - QE
+  - Interest rates (including negative, a la Sweden(?))
+  - Forward guidance
+
+** what should happen?
+
+- The UK economy is undoubtedly suffering, in part, from a lack of
+  demand
+- Carney is unlikely to be able to help because he is not a CE, able
+  to change direction as he sees fit
+- He is just a manager implementing the Chancellor's chosen policy
+- Problem is really that the current IT framework puts pressure on
+  the MPG to respond to current inflation, rather than just worrying
+  about closing the output gap.
+- Chancellor is abdicating responsibility by raising expectations of
+  Carney, while simultaneously tying Carney's hands.
+- We shouldn't expect significant changes, although further stimulus
+  would undoubtedly be welcome in the current climate.
+
+
+* Pitch to Public Finance
+
+  Growth forecasts have again been revised down and the UK remains
+  mired in the longest recession for over a century. The Government
+  appears to be treading water, pinning their hopes on the arrival of
+  Mark Carney as the new Governor of the Bank of England. Alongside
+  the Budget, the Chancellor also released an updated remit for the
+  Bank of England, intended to help Carney generate some growth in the
+  economy.
+
+  There is no doubt that the UK economy could do with some monetary
+  stimulus: with nominal output over fifteen per cent below the
+  pre-crisis trend and companies hoarding cash aggregate demand is
+  severely depressed.
+
+  Unfortunately, the Chancellor has overestimated the effect of
+  Carney's arrival and, moreover, the tools the he has given the Bank
+  are unlikely to be sufficient. The updated remit confirms a
+  commitment to the inflation target, which has long been 'flexible'
+  as is amply demonstrated by the past few years of above-target
+  inflation.
+
+  The problem is that the Monetary Policy Committee is more worried
+  about the risks to inflation than growth, which is a direct
+  consequence of the Chancellor's chosen inflation target. The current
+  Governor is, in fact, in favour of further QE and has unsuccessfully
+  voted in favour of it twice already this year. A new name at the top
+  is unlikely to help the Chancellor as much as he hopes.
+
+
+* Others' views
+
+** [[http://blogs.ft.com/the-a-list/2013/04/02/masters-of-money-fail-to-convert-hope-into-reality/#axzz2PKeBTTOC][Stephen King]]
+- Monetary policy does not seem able to increase growth
+- Forward guidance and QE could cause high inflation
+- They could increase asset prices without affecting the real economy
+- Depreciation may just redistribute the losses from the financial
+  crisis without helping the recovery
+
+
+** [[http://www.project-syndicate.org/blog/why--inflate-and-depreciate--won-t-work-by-robert-skidelsky][Robert Skidelsky]]
+- Monetary policy is 'inflate and depreciate'
+- Currency wars hurt everyone
+- Depreciation isn't enough to boost exports when consumer confidence
+  is low overseas.
+- Only way to increase aggregate demand is through fiscal expansion.
+
+
+** [[http://www.economist.com/blogs/freeexchange/2013/03/euro-crisis-4][Ryan Avent]]
+- European fall in NGDP is a problem.
+- "a dip in nominal growth will often result from a real factor. But a
+  sustained decline in nominal growth is the central bank's fault."
+- "it is a good idea for central banks to do this. When they don't, the
+  drop in nominal growth itself becomes an economic problem. When
+  there is less money flowing around an economy prices have to adjust
+  downward to prevent a big drop in real activity. So do wages and
+  debt contracts. If all those nominal variables don't adjust quickly
+  and smoothly you get big economic dislocations: unemployment, people
+  who can't afford to keep servicing their debts, and so on"
+
+* Draft article (1500 words)
+
+
+The UK is in an economic hole. Growth forecasts have again been
+revised down and the UK remains mired in the longest recession for
+over a century. The Government's 2013 Budget appeared to hoist the
+white flag with the Office of Budget Responsibility assessing that it
+will have no effect on growth. All eyes are pinned on the much
+heralded arrival of Mark Carney as the new Governor of the Bank of
+England. He takes the reins from Sir Mervyn King at the end of June
+and becomes the first foreigner to lead the Bank since its
+establishment in 1694.
+
+In his current role as the Governor of the Bank of Canada, Carney has
+been credited with shepherding Canada's economy through the financial
+crisis relatively unscathed. His use of unorthodox instruments, such
+as a year-long commitment to low interest rates, have now been
+emulated by other central banks around the world. That boldness has
+generated intense speculation about the course UK monetary policy
+might take under his leadership, which has culminated with the release
+of an updated remit for the Bank of England alongside the Budget.
+
+In his speech the Chancellor claimed that his 2013 Budget "creates the
+space for an active monetary policy", a clear call for looser policy
+from the Bank of England. Of course, the Bank has not been idle since
+the crisis began. Since 2007 it has cut interest rates to historically
+low levels, conducted £375 billion of quantitative easing, and
+attempted to provide cheap lending to retail banks. Despite this, the
+economy has stubbornly flat-lined and inflation has twice exceeded 5
+per cent since 2008.
+
+Against this backdrop the new remit for the Bank has two notable
+elements. It encourages the use of forward guidance, and clarifies that
+the target is 'flexible'. These tools have always been available to
+the Bank but the Chancellor has now highlighted them and, in
+particular, asked the Bank to report back to him on the use of
+forward guidance.
+
+Forward guidance involves the Bank publicly committing itself to a
+particular course of action, as the Bank of Canada did in 2009 under
+Carney's leadership. The idea is that rule-based commitment allows
+people to act with more certainty about future economic conditions,
+which can help boost confidence and growth. It has been recently used
+in the US, where the Federal Reserve (the Fed) has committed to
+keeping interest rates below 0.25 per cent as long as unemployment
+remains above 6.5 per cent and inflation expectations remain below 2.5
+per cent.
+
+Essentially, the Fed is promising not to put the brakes on until the
+economy is well on the way to recovery. Under the current Governor the
+Bank of England has steered clear of binding its hands in any way, but
+the Chancellor is clearly hinting that he thinks it should reconsider
+its stance.
+
+The new remit also confirms the Bank's policy target as CPI inflation
+of 2 per cent. The Chancellor has clarified that this means the Bank
+should always aim to return inflation to 2 per cent in the medium
+term, not that inflation should be 2 per cent at all times, regardless
+of economic conditions. That is welcome because it means that the Bank
+need not respond instantly to every wobble in the CPI. As Deputy
+Governor Paul Tucker has said, "We don’t have to create recessions to
+get inflation back to target quickly in the event of an oil price
+hike." The Bank's tolerance of spikes in the CPI over the past five
+years has been heavily criticised by some economists for breaching the
+target. The Chancellor's statement represents a strong rebuttal of
+that view.
+
+With a new remit the Chancellor hopes that the Bank of England will be
+able to resuscitate the economy. However, he may have overestimated
+its effectiveness. While the remit reaffirms the 2 per cent inflation
+target for the Bank, it does not provide any tools that were not
+available before the Budget. In essence, George Osborne has simply
+hinted at what he would do if he were running the Bank. He appears to
+be hoping that a nudge toward further monetary easing and a new
+Governor will be a sufficient impetus to alter the current
+direction. Carney appears to share these hopes, but both he and
+Osborne may be disappointed.
+
+Decisions at the Bank are not made by a single person and the Governor
+has only one vote. Monetary policy at the Bank is decided on by a vote
+of the nine member Monetary Policy Committee (MPC) and Sir Mervyn King
+has voted in favour of further quantitative easing at the past two
+meetings. Sir Mervyn has a reputation as a forceful advocate for his
+views so it is unlikely that Carney will be better able to persuade
+the MPC to ease policy. It is not the current Governor nor his tools
+that are holding back monetary policy: the constraint is the target
+the Chancellor has set. A flexible inflation target may be
+the theoretical ideal but the implementation in the UK demonstrates
+its practical limitations.
+
+To see the problems with the inflation target we have only to look at
+the minutes from the MPC's March meeting. They begin by pointing to "a
+degree of slack in the economy", which is exactly what monetary policy
+exists to avoid. Of course, the Committee must also heed inflationary
+dangers, but they note that "higher output growth would not
+necessarily lead to any material increase in inflationary pressure."
+
+This suggests an immediate need to loosen monetary policy yet the
+Committee eventually concluded that "there was a risk that [loosening]
+could lead to inflation expectations drifting upwards" and decided not
+to act. Essentially they judged that the risk of a possible rise in
+inflation expectations matters more than the near certainty that the
+UK has persistently deficient demand. In the current economic
+circumstances it would be far better for the MPC to place their
+emphasis on assisting the economy to reach full capacity. That
+requires re-framing their decision with a new target that shifts the
+balance of their attention.
+
+The debate around appropriate monetary policy targets has flourished
+over the past five years and a number of alternatives were available
+to the Chancellor. The most obvious alternative, championed by
+prominent economists such as Simon Wren-Lewis of Oxford University,
+would have been to give the Bank a dual mandate that requires it to
+consider both growth and inflation. The US Federal Reserve, for
+example, is required to both control inflation and reduce
+unemployment. That would change the balance of the MPC's decision when
+weighing the risks to inflation against the costs of chronic demand
+deficiency. It would also be a relatively small change from the
+present regime and has the advantage of being well tested overseas.
+
+In the present circumstances it is almost certain that such a policy
+change would result in the MPC loosening monetary conditions. However,
+some commentators, such as HSBC Chief Economist Stephen King, complain
+that the Bank of England is out of ammunition because the Bank's
+headline interest rate is already close to zero and quantitative
+easing has been disappointing.
+
+That complaint is a fair one in current circumstances but does not
+account for the powerful effect of committing to a new policy
+regime. In the UK, markets are unconvinced by the Bank's efforts to
+stimulate the economy precisely because they know the MPC's key
+concern is not growth but inflation. Cheap money today is a punch bowl
+that will be pulled away at the first sign of rising inflation, making
+it completely ineffective as a policy tool. A change in the policy
+regime changes the rules of the game.
+
+The best recent example is in Japan, which has experienced two decades
+of economic stagnation. In that time the Japanese government has
+racked up the world's highest public debt (well over 200 per cent of
+GDP) in an attempt to stimulate the economy. However, the Bank of
+Japan leaned against the stimulus and kept inflation at 0 per
+cent, resulting in the lost decades. Late last year the Government
+changed tack and instructed the Bank of Japan to pursue 2 per cent
+inflation; a massively stimulatory programme of monetary expansion
+relative to the previous policy. Since the announcement in November
+2012 the Japanese stock market has risen 45 per cent on expectations
+of future growth and the yen has depreciated by 20 per cent,
+graphically illustrating the power of a policy change.
+
+A more drastic change in target for the UK would have been a switch to
+targeting nominal output instead of inflation; so-called NGDP level
+targeting. Michael Woodford, a leading academic at Columbia
+University, and Scott Sumner, of Bentley University, are notable
+proponents of nominal output targets but they have rapidly gained
+prominence since the onset of the recession. Nominal output is
+comprised of GDP growth and inflation so it is somewhat similar to a
+dual mandate, only with a fixed 'weighting' between inflation and
+growth. Proponents of nominal output targets claim that its advantage
+over a dual mandate is that it provides a firm anchor on market
+expectations. Rather than having to guess at the MPC's future actions,
+people can rely on a particular rate of income growth when setting
+prices. It is unsurprising that the Chancellor decided against a
+nominal output target since no central bank has yet implemented one,
+despite its popularity among economists.
+
+The news that Mark Carney is to replace Sir Mervyn King as the
+Governor of the Bank of England was met with almost universal
+praise. The appointment was seen as a coup for the Chancellor and an
+opportunity to lift the UK out of five years of recession. Rather than
+seizing the moment the Chancellor has left Mark Carney with all the
+weight of public expectation and little hope of fulfilling it.
