@@ -1,0 +1,30 @@
+#Pre-Budget 2015 article for City AM (750 words)
+
+##Pitch
+George Osborne will announce this is "a Budget for the long term" but, in a report we’re releasing tomorrow, we find quite the opposite.
+ 
+We evaluate the fiscal sustainability of the Coalition’s policies and find that they have been extremely short-termist: they have focussed on deficit reduction to the detriment of incomes, but they have not materially improved the fiscal outlook for the country. The single greatest barrier to fiscal sustainability is the current level of NHS entitlements, followed by pension entitlements, both of which have been protected by this Government. This fact is masked by the assumptions in the Government’s long-term projections which assume that NHS productivity growth permanently triples. Without that assumption, current policy promises will see debt is projected to exceed 200 per cent of GDP in the coming decades.
+ 
+In an op-ed, we would point out that the Chancellor continues to target the grey vote, which renders these entitlements increasingly unsustainable. Avoiding reform today jeopardises the welfare of future generations, who cannot rely on the protections continuing.
+
+##Draft (750 + 12 words)
+
+We know a lot about tomorrow's Budget from George Osborne's appearances over the weekend. He will announce 'a Budget for the long term' that will 'raise living standards'. It will be a balanced budget that avoids the problems of the previous Government, which 'got itself into trouble with unfunded promises'. To satisfy the Chancellor's recently announced fiscal rule, it will eliminate the structural deficit within three years.
+
+The Chancellor is right to be concerned about the long term and abhor unfunded promises; unfortunately, the numbers are against him. The current deficit in 2012-13 stood at £85 billion, which is over 5 per cent of GDP. However, were the Government to adhere to standard accounting conventions and include future contractual obligations, such as public sector pension payments, the deficit would have been recorded as £179 billion. For comparison, the entire health and schools budgets combined will amount to only £162 billion in 2014-15.
+
+Even that figure does not represent the true scale of the UK's fiscal commitments. The Government's fiscal watchdog, the Office for Budget Responsibility (OBR), compiles an assessment each year of the long-term sustainability of the public finances. In each year since it was created in 2010, the OBR has judged the public finances to be unsustainable. In 2011 it believed that current spending promises "would eventually put public sector net debt on an unsustainable upward trajectory. It is likely that such a path would lead to lower long-term economic growth and higher interest rates, exacerbating the fiscal problem." That conclusion remains unchanged.
+
+In fact, the situation may be worse than the OBR suggests. The challenge facing the public finances is the UK's ageing population. Over the next 50 years the number of people over 65 will increase from 18 per cent of the population to 27 per cent. The proportion who are over 85 will more than triple. The pressure that will place on the UK's tax-funded pension system and free healthcare will be enormous.
+
+The NHS, in particular will bear the brunt of the cost as chronic health conditions, associated with ageing, become increasingly prevalent. The OBR's forecasts partially offset that pressure by assuming that healthcare productivity growth permanently doubles over the next five years, to 2.2 per cent per year. On that favourable basis, Government debt would still approach 85 per cent of GDP in fifty years. However, health productivity has historically grown at only 0.7 to 0.8 per cent. If it continues, instead, at that rate, debt would exceed 200 per cent of GDP.
+
+State pension spending is likely to increase at a similar rate, rising by a third over the next fifty years. The increase is partially due to policy decisions, which have guaranteed that the state pension's generosity will exceed both inflation and wage growth. As a consequence, retirees are the only demographic whose average incomes have risen throughout the recession. Despite that, the Government continues to woo the grey vote and is expected to announce further tax relief for pensioners in tomorrow's Budget. 
+
+These figures demonstrate the enormity of the long-term challenge facing the Government. The current pension and healthcare promises to retirees cannot be sustained over the coming decades without colossal cuts to other areas of spending. That problem is exacerbated by the current trend towards protection of education, health, and pension expenditure. An attempt to fund its commitments through cuts to other areas of Government spending would require unprotected spending to be halved over the next fifty years. Alternatively, taxes would need to rise from about 38 per cent of GDP today to 54 per cent.
+
+These scenarios are clearly implausible and reforms are required to pensions and the NHS if the Government is to keep its promises to the young people of today. There is already concern that younger generations are saving too little for their retirement. To change the rules as today's young approach retirement age and reduce their pension and health entitlements would multiply that problem.
+
+Since 2008, successive Chancellors have, understandably, focussed on the short-term problem of the deficit. A side-effect of the focus on spending reduction has been a marked increase in productivity in the public sector. As budgets have been squeezed, resourceful public servants have found new and better ways to do more with the funds available. That pressure must now be brought to bear on the NHS if we are to realise the productivity gains required to provide the care promised to future generations. The Chancellor must end the protections on the NHS budget and allow budgetary pressure to improve the efficiency of the service, as it has in many other areas of public spending.
+
+James Zuccollo is the Senior Economist at the independent think tank, Reform.
